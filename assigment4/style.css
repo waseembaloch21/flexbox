@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+body{
+    background-image: url(https://image.made-in-china.com/202f0j00aCJWEDYIufkt/Modern-3D-Wallpaper-PVC-Bedroom-Wallpaper-Living-Room-TV-Background-Wall-Wallpaper.webp);
+}
+
+.Wall{
+    height: 500px;
+    width: 600px;
+    border: 5px solid black;
+    margin: 12px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 100px;
+}
