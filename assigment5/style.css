@@ -1,0 +1,40 @@
+.parent{
+   min-height: 500px;
+    max-width: 600px;
+    border: 5px solid black;
+    margin: 12px auto;
+    display: flex;    
+    flex-wrap: wrap;
+    background-image: url(https://t4.ftcdn.net/jpg/01/23/73/15/360_F_123731572_KMfBEkpbRlfQj1ypdPVwv4W0r27B9hVJ.jpg);
+   
+}
+.flex-box{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 100px;
+    font-size: xx-large;
+    background-color: white;
+    
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+footer{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.flex-box:hover{
+    background-color: bisque;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg);
+}
